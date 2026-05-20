@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Rename the extension to `Kubectl Confirm`.
 - Update logo
 - Set the publisher identifier to `sysheadlabs`.
+- Override transitive `socks` and `ws` dependencies to address the `ip-address` and `ws` advisories reported by `npm audit`.
 
 ## [2.1.0] - 2026-04-13
 - Bump extension version to 2.1.0.
