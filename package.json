@@ -10,7 +10,7 @@
     "yaml",
     "kubectl"
   ],
-  "icon": "images/apply.png",
+  "icon": "images/apply_128.png",
   "engines": {
     "vscode": "^1.100.0"
   },
