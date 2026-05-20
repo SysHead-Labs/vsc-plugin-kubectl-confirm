@@ -1,9 +1,9 @@
 {
-  "name": "kubernetes-safe-apply",
-  "displayName": "Kubernetes Safe Apply",
-  "description": "Apply/Diff/Delete Kubernetes resource files",
-  "version": "2.1.0",
-  "publisher": "SysheadLabs",
+  "name": "kubectl-confirm",
+  "displayName": "Kubectl Confirm",
+  "description": "Safer Kubernetes operations for VS Code with context validation and confirmation.",
+  "version": "2.2.0",
+  "publisher": "sysheadlabs",
   "keywords": [
     "kubernetes",
     "apply",

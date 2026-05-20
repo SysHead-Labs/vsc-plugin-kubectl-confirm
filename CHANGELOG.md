@@ -1,10 +1,14 @@
 # Change Log
 
-All notable changes to the "kubeapply" extension will be documented in this file.
+All notable changes to the "Kubectl Confirm" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [2.2.0] - 2026-05-14
+- Bump extension version to 2.2.0.
+- Rename the extension to `Kubectl Confirm`.
+- Update logo
+- Set the publisher identifier to `sysheadlabs`.
 
 ## [2.1.0] - 2026-04-13
 - Bump extension version to 2.1.0.
