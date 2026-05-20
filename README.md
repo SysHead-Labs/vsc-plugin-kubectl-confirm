@@ -4,6 +4,8 @@ Kubectl Confirm is a VS Code extension focused on safer Kubernetes operations.
 
 Instead of executing `kubectl` commands immediately from the editor, the extension adds validation, context visibility, confirmation prompts, and delayed execution safeguards to help prevent mistakes against the wrong cluster or namespace.
 
+![Overview](https://raw.githubusercontent.com/SysHead-Labs/vsc-plugin-kubectl-confirm/refs/heads/master/images/confirm-apply.png)
+
 ## Core Functionality
 
 - Execute Kubernetes operations directly from VS Code explorer context menus.
@@ -36,9 +38,6 @@ For `apply` and `delete` actions, the extension:
 
 1. Detects and displays the active Kubernetes context.
 2. Shows the exact command that will be executed.
-
-![Overview](https://raw.githubusercontent.com/SysHead-Labs/vsc-plugin-kubectl-confirm/refs/heads/master/images/confirm-apply.png)
-
 3. Requires manual confirmation inside VS Code.
 4. Starts a visible 5 second cancellable countdown.
 
