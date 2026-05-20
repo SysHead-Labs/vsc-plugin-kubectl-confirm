@@ -17,6 +17,8 @@ Instead of executing `kubectl` commands immediately from the editor, the extensi
 - Sync local manifests from live Kubernetes resources.
 - Support both standard manifests and Kustomize workflows.
 
+![Right-click menu](https://raw.githubusercontent.com/SysHead-Labs/vsc-plugin-kubectl-confirm/refs/heads/master/images/right-click-menu.png)
+
 ## Available Commands
 
 | Command | Description | Shortcut |
